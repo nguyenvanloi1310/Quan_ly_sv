@@ -1,0 +1,34 @@
+[
+    {
+        "id":1,
+        "name":"Nguyễn Văn Lợi",
+        "tel": "099935555",
+        "permission": 2
+    },
+    {
+        "id":2,
+        "name":"Trần Văn Vinh",
+        "tel": "099936766",
+        "permission": 1
+    },
+    {
+        "id":3,
+        "name":"Tôn Văn Quốc",
+        "tel": "099932345",
+        "permission": 2
+    },
+    {
+        "id":4,
+        "name":"Đình Văn Thanh",
+        "tel": "099936947",
+        "permission": 1
+    },
+    {
+        "id":5,
+        "name":"Nguyễn Văn Tú",
+        "tel": "099935555",
+        "permission": 3
+    }
+    
+
+]
